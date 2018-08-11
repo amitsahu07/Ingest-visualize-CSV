@@ -1,5 +1,5 @@
 # Ingest-visualize-CSV
-This POC is for understanding the working for Elasticsearch enabled with Cerebro UI to ingest a CSV containing Geo-coordinates and visualize the latter with Kibana.
+This POC is for understanding the working of Elasticsearch (enabled with Cerebro UI) to ingest a CSV containing Geo-coordinates and visualize the latter with Kibana.
 Please find the related artifacts in the same repository.
 
 # Download URLs 
