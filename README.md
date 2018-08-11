@@ -4,8 +4,8 @@ Please find the related artifacts in the same repository.
 
 # Download URLs 
 Elasticsearch: https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip
-Cerebro: https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip
-Kibana: https://github.com/lmenezes/cerebro/releases
+Cerebro: https://github.com/lmenezes/cerebro/releases
+Kibana: https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip 
 
 # Default Endpoints
 Elasticsearch endpoint: http://localhost:9200/
