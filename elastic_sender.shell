@@ -1,0 +1,4 @@
+while read f1
+do        
+   curl -XPOST 'http://localhost:9200/subway_info_v1/station' -H "Content-Type: application/json" -u elastic:XXXX -d "{ \"station\": \"$f1\" }"
+done < NYC_Transit.csv
